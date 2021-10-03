@@ -1,14 +1,7 @@
 # 🆆🅰🆆 - WasteAgainstWaste
 >"There is no such thing as "Away". When we throw anything away, it must go somewhere." <br />                                                  
                                                                 ~_Annie Leonard_    <br />
-## Our Team  🎳<br />
-Name - Nityanand Mathur  <br />
-Email - nityanand.mathur@iiitg.ac.in. Contact number: `7247412358`     
-Name - Ayush Pratap Singh  <br />
-Email - ayush.pratap@iiitg.ac.in.  Contact number: `98391662530` <br />
-Name - Nisheet Karan <br />
-Email - nisheet.karan@iiitg.ac.in.  Contact number: `8529468896` <br />
-
+                                                                
 ## Project Details  💻<br />
 **Domain**: Artificial Intelligence and Machine Learning <br />
 **Project Name**: Waste Against Waste<br />
@@ -253,6 +246,14 @@ plt.show()
   <img src="https://github.com/nisheetkaran/Simulation/blob/Thumbnail2/Untitled%20design%20(1).png?raw=true" />
 </p>
 ➤ This image most likely belongs to Clean with a 99.29 percent confidence.
+
+## Our Team  🎳<br />
+Name - Nityanand Mathur - https://github.com/nityanandmathur  <br />
+Email - nityanand.mathur@iiitg.ac.in. Contact number: `7247412358`     
+Name - Ayush Pratap Singh - https://github.com/ayushpratap113  <br />
+Email - ayush.pratap@iiitg.ac.in.  Contact number: `98391662530` <br />
+Name - Nisheet Karan - https://github.com/nisheetkaran <br />
+Email - nisheet.karan@iiitg.ac.in.  Contact number: `8529468896` <br />
 
 
 
