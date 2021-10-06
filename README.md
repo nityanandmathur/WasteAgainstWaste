@@ -53,7 +53,6 @@ We have classified images of Waste and Non-waste, First we have created an image
 
 ```python
 import numpy as np
-import pandas as pd
 import PIL
 import os
 import tensorflow as tf
