@@ -228,7 +228,7 @@ plt.show()
 ```
 
 <p align=>
-  <img src="https://github.com/nityanandmathur/TECH-A-THON-WasteAgainstWaste/blob/main/Validation_Graph.png" />
+  <img src="https://github.com/nityanandmathur/TECH-A-THON-WasteAgainstWaste/blob/main/validation-graph.png"/>
 </p>
 ➤ Graphical representation of Training Accuracy and Validation Accuracy.<br/>
 
