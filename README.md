@@ -83,7 +83,7 @@ data_dir = pathlib.Path(data_dir)
 #### Creating a dataset
 Defining parametres for the loader.
 ```python
-batch_size = 32
+batch_size = 35
 image_height = 180
 image_width = 180
 ```
@@ -194,7 +194,7 @@ model.summary()
 We already reached adequate amount of accuracy on implementing our algorithm three to four times but, our confidence level/percentage for checking on external test images was low, so increasing number of epocs helped us in reaching the confidence level close to that we wanted our model to have.
 
 ```python
-epochs=10
+epochs=9
 history = model.fit(
     train_ds,
     validation_data=val_ds,
