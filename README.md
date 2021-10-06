@@ -159,7 +159,7 @@ print(np.min(first_image), np.max(first_image))
 ### 5. Creating the model
 The Sequential model consists of three convolution blocks `Conv2D` which creates a 2-Dimensional Convolution with a max pooling layer `MaxPooling2D` in each of them. There's a fully-connected layer `Dense` with 128 units on top of it. At last, we flatten the layers by `Flatten`. 
 ```python
-num_classes = 5
+num_classes = 2
 
 model = Sequential([
     layers.Rescaling(1./255, input_shape=(image_height, image_width, 3)),
