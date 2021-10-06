@@ -9,7 +9,7 @@
 
 The libraries used in project are as follows:<br /> 
 • **NumPy** <br />
-• **Pandas**<br />
+• **Matplotlib**<br />
 • **TensorFlow** <br />
 
  ### Serious predicament  ➖➕✖️➗<br />
@@ -229,7 +229,7 @@ plt.show()
 ```
 
 <p align=>
-  <img src="https://raw.githubusercontent.com/nisheetkaran/Simulation/Thumbnail2/FinalGraph.png?token=ASRPDCYEKACCIOZZZ55GXZTBMGTRG" />
+  <img src="https://github.com/nityanandmathur/TECH-A-THON-WasteAgainstWaste/blob/main/Validation_Graph.png" />
 </p>
 ➤ Graphical representation of Training Accuracy and Validation Accuracy.<br/>
 
@@ -258,7 +258,7 @@ Email - nisheet.karan@iiitg.ac.in.  Contact number: `8529468896` <br />
 
 
 <div align="center">
-<h1>   Many thank for this opportunity!  
+<h1>   Many thanks for this opportunity!  
  </h1>                                                
 
 
