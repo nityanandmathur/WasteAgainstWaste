@@ -149,13 +149,7 @@ That's why we will standardize values to be in the [0, 1] range by using `.Resca
 ```python
 normalization_layer = layers.Rescaling(1./255)
 ```
-We applied it to the dataset by calling `Dataset.map` :
-```python
-normalized_ds = train_ds.map(lambda x, y: (normalization_layer(x),y))
-image_batch, labels_batch = next(iter(normalized_ds))
-first_image = image_batch[0]
-print(np.min(first_image), np.max(first_image))
-```
+
 ### 5. Creating the model
 The Sequential model consists of three convolution blocks `Conv2D` which creates a 2-Dimensional Convolution with a max pooling layer `MaxPooling2D` in each of them. There's a fully-connected layer `Dense` with 128 units on top of it. At last, we flatten the layers by `Flatten`. 
 ```python
